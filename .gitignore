@@ -1,0 +1,16 @@
+# Source data that the pipeline downloads on demand (~45 MB)
+data/NPL_ADM3.geojson
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# QGIS / ArcGIS scratch
+*.qgz~
+*.qgd
+*.lock
+*.aux.xml
+*.cpg
