@@ -1,0 +1,20 @@
+{
+  "place": "Panauti Municipality, Kavrepalanchok, Nepal",
+  "dataset": "Hansen Global Forest Change GFC-2024-v1.12",
+  "canopy_threshold_pct": 30,
+  "period": [
+    2001,
+    2024
+  ],
+  "study_area_ha": 11833.0,
+  "forest_2000_ha": 6390.8,
+  "forest_2000_pct_of_area": 54.0,
+  "total_loss_ha": 169.5,
+  "total_loss_pct_of_2000_forest": 2.65,
+  "gain_2000_2012_ha": 55.1,
+  "net_change_ha": -114.3,
+  "mean_annual_loss_ha": 7.06,
+  "peak_loss_year": 2024,
+  "peak_loss_ha": 54.74,
+  "forest_2024_ha": 6221.3
+}
